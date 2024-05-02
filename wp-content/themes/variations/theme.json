@@ -59,6 +59,13 @@
 			"title": "Blog 4"
 		},
 		{
+			"name": "blog-island-eight",
+			"postTypes": [
+				"page"
+			],
+			"title": "Blog 5"
+		},
+		{
 			"name": "websites-blog",
 			"postTypes": [
 				"page"

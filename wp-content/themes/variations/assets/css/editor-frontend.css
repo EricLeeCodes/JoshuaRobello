@@ -72,7 +72,9 @@ p[style*="text-decoration: none"] a,
 ul[style*="text-decoration:none"] a,
 ul[style*="text-decoration: none"] a,
 li[style*="text-decoration:none"] a,
-li[style*="text-decoration: none"] a {
+li[style*="text-decoration: none"] a,
+.wp-block-heading[style*="text-decoration:none"] a,
+.wp-block-heading[style*="text-decoration: none"] a {
     text-decoration: none !important;
 }
 
